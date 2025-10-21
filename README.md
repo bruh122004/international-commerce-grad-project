@@ -1,9 +1,8 @@
 # international-commerce-grad-project
 A repo dedicated for documenting my journey over my apprentice years.
 Project overview
-Good — that’s the right stage to be in: curiosity without delusion. The project *is* complex, but you can absolutely chip away at it piece by piece. Think of it as a series of **independent research modules**, not one gigantic “learn everything about global trade” death march.
 
-Here’s a practical breakdown in order of dependency:
+a practical breakdown in order of dependency:
 
 ---
 
