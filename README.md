@@ -103,9 +103,3 @@ a practical breakdown in order of dependency:
 
   * Where small importers/exporters in your region struggle most (financing, documentation, trust).
   * How investors think about risk and liquidity.
-
----
-
-If you research one module per week — just enough to understand key terms and relationships — you’d have a *complete conceptual map* in two months. Then you can decide if it’s a viable business, a technical experiment, or both.
-
-Would you like me to order these modules into a **2-month roadmap with specific sources per week** so you don’t drown in material?
